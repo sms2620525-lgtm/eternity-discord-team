@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://sms2620525-lgtm.github.io/eternity-discord-team/sitemap.xml
